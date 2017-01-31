@@ -1,0 +1,12 @@
+package: apiscli
+import:
+- package: github.com/spf13/cobra
+- package: github.com/spf13/viper
+- package: github.com/bevanhunt/gowrex
+  version: ^0.0.2
+- package: github.com/ttacon/chalk
+- package: github.com/gosuri/uitable
+- package: github.com/mattn/go-runewidth
+- package: github.com/dixonwille/wmenu
+  version: ^3.0.0
+- package: github.com/skratchdot/open-golang
