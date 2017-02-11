@@ -64,7 +64,7 @@ var searchCmd = &cobra.Command{
 			} `json:" paging"`
 		}
 
-		// join all args into one keyword seperated by spaces and url encoded
+		// join all args into one keyword separated by spaces and url encoded
 		keywords := strings.Join(args, " ")
 		keywordsEscaped := url.QueryEscape(keywords)
 
