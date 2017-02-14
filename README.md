@@ -1,6 +1,6 @@
 # APISCLI - Command-Line API discovery for apis.io
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/bevanhunt/apiscli)](https://goreportcard.com/report/github.com/bevanhunt/apiscli)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bevanhunt/apiscli?maxAge=0)](https://goreportcard.com/report/github.com/bevanhunt/apiscli?maxAge=0)
 
 ## Local
 
